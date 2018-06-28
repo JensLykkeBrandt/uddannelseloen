@@ -1,0 +1,4898 @@
+{
+   "Universitetsuddannelser": [
+      {
+         "n": "Afrikastudier (kandidat)",
+         "l": 17,
+         "m": 25850,
+         "g": 9200
+      },
+      {
+         "n": "Agrobiologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Agrobiologi (kandidat)",
+         "l": 2,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Agronomi (kandidat)",
+         "l": 11,
+         "m": 26300,
+         "g": 7500
+      },
+      {
+         "n": "Akvatisk videnskab og teknologi (kandidat)",
+         "l": 17,
+         "m": 25900,
+         "g": 9900
+      },
+      {
+         "n": "Amerikanske studier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Amerikanske studier (kandidat)",
+         "l": 18,
+         "m": 27400,
+         "g": 6700
+      },
+      {
+         "n": "Antropologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Antropologi (kandidat)",
+         "l": 24,
+         "m": 26400,
+         "g": 7850
+      },
+      {
+         "n": "Anvendt filosofi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Anvendt filosofi (kandidat)",
+         "l": 42,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Anvendt kemi (kandidat)",
+         "l": 8,
+         "m": 33000,
+         "g": 12600
+      },
+      {
+         "n": "Anvendt kulturanalyse (kandidat)",
+         "l": 28,
+         "m": 24550,
+         "g": 11000
+      },
+      {
+         "n": "Anvendt matematik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Anvendt matematik (kandidat)",
+         "l": 0,
+         "m": 28500,
+         "g": 7400
+      },
+      {
+         "n": "Applied Industrial Electronics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arabisk- og islamstudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arabisk- og islamstudier (kandidat)",
+         "l": 9,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arbejdslivsstudier (kandidat)",
+         "l": 16,
+         "m": 28500,
+         "g": 6400
+      },
+      {
+         "n": "Arkitektur og design (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arkæologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Art and Technology (ArT) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Asian Language and Culture (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Assyriologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Astronomi (kandidat)",
+         "l": 2,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Audiologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Audiologi (kandidat)",
+         "l": 6,
+         "m": 33000,
+         "g": 7700
+      },
+      {
+         "n": "Audiologopædi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Audiologopædi (kandidat)",
+         "l": 3,
+         "m": 32600,
+         "g": 7400
+      },
+      {
+         "n": "Autonome systemer (kandidat)",
+         "l": 13,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bibliotekskundskab og videnskommunikation (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bioentrepreneurskab (kandidat)",
+         "l": 5,
+         "m": 34900,
+         "g": 4700
+      },
+      {
+         "n": "Bioinformatik (kandidat)",
+         "l": 7,
+         "m": 26200,
+         "g": 8500
+      },
+      {
+         "n": "Bioinformatik og systembiologi (kandidat)",
+         "l": 4,
+         "m": 26100,
+         "g": 4700
+      },
+      {
+         "n": "Biokemi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biokemi (kandidat)",
+         "l": 15,
+         "m": 28100,
+         "g": 7800
+      },
+      {
+         "n": "Biokemi og molekylær biologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biokemi og molekylær biologi (kandidat)",
+         "l": 12,
+         "m": 26000,
+         "g": 4100
+      },
+      {
+         "n": "Biologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biologi (kandidat)",
+         "l": 18,
+         "m": 26300,
+         "g": 5200
+      },
+      {
+         "n": "Biologi-bioteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biologi-bioteknologi (kandidat)",
+         "l": 12,
+         "m": 26500,
+         "g": 8200
+      },
+      {
+         "n": "Biomedical Engineering and Informatics (kandidat)",
+         "l": 5,
+         "m": 32400,
+         "g": 10450
+      },
+      {
+         "n": "Biomedicin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biomedicin (kandidat)",
+         "l": 16,
+         "m": 26350,
+         "g": 4700
+      },
+      {
+         "n": "Biomedicinsk informatik (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Biomedicinsk teknik (kandidat)",
+         "l": 11,
+         "m": 29700,
+         "g": 8700
+      },
+      {
+         "n": "Bioteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bioteknologi (kandidat)",
+         "l": 11,
+         "m": 31700,
+         "g": 11050
+      },
+      {
+         "n": "Brasilianske studier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Brasilianske studier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Building Energy Design (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business Administration and Digital Management (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business Administration and E-business (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business Administration and Information Systems (kandidat)",
+         "l": 7,
+         "m": 34700,
+         "g": 9250
+      },
+      {
+         "n": "Business Administration and Service Management (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business Administration and Sociology (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business Analytics (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Business, Language and Culture (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "By, bolig og bosætning (kandidat)",
+         "l": 30,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "By-, energi- og miljøplanlægning (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "By-, energi- og miljøplanlægning (kandidat)",
+         "l": 13,
+         "m": 29800,
+         "g": 8200
+      },
+      {
+         "n": "Bygge- og anlægskonstruktion (kandidat)",
+         "l": 9,
+         "m": 31900,
+         "g": 5800
+      },
+      {
+         "n": "Byggeri (kandidat)",
+         "l": 3,
+         "m": 32700,
+         "g": 5600
+      },
+      {
+         "n": "Byggeri og anlæg (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Byggeteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Byggeteknologi (kandidat)",
+         "l": 5,
+         "m": 33200,
+         "g": 5700
+      },
+      {
+         "n": "Bygningsdesign (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bygningsdesign (kandidat)",
+         "l": 9,
+         "m": 32600,
+         "g": 5800
+      },
+      {
+         "n": "Bæredygtig energi (kandidat)",
+         "l": 9,
+         "m": 32900,
+         "g": 9900
+      },
+      {
+         "n": "Bæredygtig kulturarvsmanagement (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bæredygtigt design (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bæredygtigt design (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bæredygtigt energidesign (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Comparative Public Policy and Welfare Studies (kandidat)",
+         "l": 29,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Computer Science (IT) (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Computerteknologi (kandidat)",
+         "l": 13,
+         "m": 30950,
+         "g": 9100
+      },
+      {
+         "n": "Construction Management and Building Informatics (kandidat)",
+         "l": 11,
+         "m": 36200,
+         "g": 3900
+      },
+      {
+         "n": "Cultural Sociology (kandidat)",
+         "l": 8,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Dansk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Dansk (kandidat)",
+         "l": 14,
+         "m": 27600,
+         "g": 7400
+      },
+      {
+         "n": "Data Science (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Datalogi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Datalogi (kandidat)",
+         "l": 3,
+         "m": 34900,
+         "g": 9100
+      },
+      {
+         "n": "Design af mekaniske systemer (kandidat)",
+         "l": 3,
+         "m": 35000,
+         "g": 6500
+      },
+      {
+         "n": "Design og innovation (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Design og innovation (kandidat)",
+         "l": 8,
+         "m": 33200,
+         "g": 8700
+      },
+      {
+         "n": "Designkultur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Designkultur og økonomi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Designledelse (kandidat)",
+         "l": 25,
+         "m": 27300,
+         "g": 7500
+      },
+      {
+         "n": "Designstudier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Development and International Relations (kandidat)",
+         "l": 14,
+         "m": 27300,
+         "g": 8850
+      },
+      {
+         "n": "Diakoni (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Didaktik (kandidat)",
+         "l": 11,
+         "m": 31600,
+         "g": 8300
+      },
+      {
+         "n": "Digital design - it, æstetik og interaktion (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Digital design (kandidat)",
+         "l": 27,
+         "m": 24500,
+         "g": 9300
+      },
+      {
+         "n": "Digital design og interaktive teknologier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Digital design og interaktive teknologier (kandidat)",
+         "l": 14,
+         "m": 29400,
+         "g": 8600
+      },
+      {
+         "n": "Digital innovation og management (kandidat)",
+         "l": 8,
+         "m": 33100,
+         "g": 7800
+      },
+      {
+         "n": "Digitale medieteknologier (kandidat)",
+         "l": 3,
+         "m": 35250,
+         "g": 8950
+      },
+      {
+         "n": "Dramaturgi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Dramaturgi (kandidat)",
+         "l": 28,
+         "m": 25550,
+         "g": 8300
+      },
+      {
+         "n": "Electronics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektromekanisk systemdesign (kandidat)",
+         "l": 2,
+         "m": 34800,
+         "g": 6400
+      },
+      {
+         "n": "Elektronik (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektronik og it (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektroteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektroteknologi (kandidat)",
+         "l": 4,
+         "m": 33800,
+         "g": 8500
+      },
+      {
+         "n": "Energi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Energiteknik (kandidat)",
+         "l": 5,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Energiteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Energiteknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Engelsk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Engelsk (kandidat)",
+         "l": 17,
+         "m": 27200,
+         "g": 6300
+      },
+      {
+         "n": "Entrepreneurial Engineering (kandidat)",
+         "l": 10,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Environmental and Natural Resource Economics - ENRE (kandidat)",
+         "l": 14,
+         "m": 28300,
+         "g": 5300
+      },
+      {
+         "n": "Environmental and Resource Management (kandidat)",
+         "l": 16,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Environmental Biology (kandidat)",
+         "l": 27,
+         "m": 28600,
+         "g": 11500
+      },
+      {
+         "n": "Environmental Risk (kandidat)",
+         "l": 11,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Ergoterapi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervssprog og international virksomhedskommunikation (kandidat)",
+         "l": 20,
+         "m": 27200,
+         "g": 7500
+      },
+      {
+         "n": "Erhvervsøkonomi - erhvervssprog, negot. (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi - erhvervssprog, negot. (kandidat)",
+         "l": 16,
+         "m": 27600,
+         "g": 7500
+      },
+      {
+         "n": "Erhvervsøkonomi - erhvervssprog, negot.(international turisme og fritidsmanagement) (kandidat)",
+         "l": 2,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi - informationsteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi med tilvalg (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og erhvervsjura (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og erhvervsjura (kandidat)",
+         "l": 8,
+         "m": 31400,
+         "g": 8600
+      },
+      {
+         "n": "Erhvervsøkonomi og erhvervssprog (kandidat)",
+         "l": 12,
+         "m": 28200,
+         "g": 7350
+      },
+      {
+         "n": "Erhvervsøkonomi og filosofi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og filosofi (kandidat)",
+         "l": 24,
+         "m": 31700,
+         "g": 11400
+      },
+      {
+         "n": "Erhvervsøkonomi og it (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og matematik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og matematik (kandidat)",
+         "l": 2,
+         "m": 36300,
+         "g": 7900
+      },
+      {
+         "n": "Erhvervsøkonomi og projektledelse (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og psykologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og psykologi (kandidat)",
+         "l": 6,
+         "m": 32800,
+         "g": 7100
+      },
+      {
+         "n": "Erhvervsøkonomi og virksomhedskommunikation (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi og virksomhedskommunikation (kandidat)",
+         "l": 10,
+         "m": 30050,
+         "g": 6700
+      },
+      {
+         "n": "Erhvervsøkonomi, cand.merc. (kandidat)",
+         "l": 8,
+         "m": 33100,
+         "g": 10500
+      },
+      {
+         "n": "Erhvervsøkonomi, cand.soc. (kandidat)",
+         "l": 7,
+         "m": 32500,
+         "g": 9200
+      },
+      {
+         "n": "Erhvervsøkonomi, HA (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Erhvervsøkonomi-erhvervssprog (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Eskimologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Eskimologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Europas religiøse rødder (kandidat)",
+         "l": 19,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Europastudier (kandidat)",
+         "l": 28,
+         "m": 24700,
+         "g": 7800
+      },
+      {
+         "n": "European Studies (kandidat)",
+         "l": 22,
+         "m": 22950,
+         "g": 10900
+      },
+      {
+         "n": "Europæisk business, HA (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Europæisk etnologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Europæisk etnologi (kandidat)",
+         "l": 38,
+         "m": 26000,
+         "g": 4100
+      },
+      {
+         "n": "Europæiske studier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Farmaceutisk videnskab (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Farmaci (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Farmaci (kandidat)",
+         "l": 4,
+         "m": 35800,
+         "g": 8850
+      },
+      {
+         "n": "Farmateknologi (kandidat)",
+         "l": 10,
+         "m": 33200,
+         "g": 9300
+      },
+      {
+         "n": "Film- og medievidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Film- og medievidenskab (kandidat)",
+         "l": 20,
+         "m": 26150,
+         "g": 10900
+      },
+      {
+         "n": "Filosofi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filosofi (kandidat)",
+         "l": 26,
+         "m": 24500,
+         "g": 12700
+      },
+      {
+         "n": "Filosofi og videnskabsteori (kandidat)",
+         "l": 26,
+         "m": 25200,
+         "g": 10100
+      },
+      {
+         "n": "Folkesundhedsvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Folkesundhedsvidenskab (kandidat)",
+         "l": 11,
+         "m": 28100,
+         "g": 5700
+      },
+      {
+         "n": "Forhistorisk arkæologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Forhistorisk arkæologi (kandidat)",
+         "l": 15,
+         "m": 27550,
+         "g": 5100
+      },
+      {
+         "n": "Forsikringsmatematik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Forsikringsmatematik (kandidat)",
+         "l": 1,
+         "m": 42600,
+         "g": 12400
+      },
+      {
+         "n": "Forvaltning (kandidat)",
+         "l": 15,
+         "m": 28600,
+         "g": 3700
+      },
+      {
+         "n": "Fotonik (kandidat)",
+         "l": 4,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fransk sprog, litteratur og kultur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fransk sprog, litteratur og kultur (kandidat)",
+         "l": 14,
+         "m": 25300,
+         "g": 5500
+      },
+      {
+         "n": "Fysik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fysik (kandidat)",
+         "l": 5,
+         "m": 26200,
+         "g": 4800
+      },
+      {
+         "n": "Fysik og nanoteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fysik og nanoteknologi (kandidat)",
+         "l": 6,
+         "m": 25950,
+         "g": 8100
+      },
+      {
+         "n": "Fysik og teknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fysik og teknologi (kandidat)",
+         "l": 6,
+         "m": 32100,
+         "g": 6600
+      },
+      {
+         "n": "Fysioterapi (kandidat)",
+         "l": 3,
+         "m": 30450,
+         "g": 8450
+      },
+      {
+         "n": "Fysiske fag (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fysiske fag (kandidat)",
+         "l": 5,
+         "m": 26200,
+         "g": 4300
+      },
+      {
+         "n": "Fødevareinnovation og sundhed (kandidat)",
+         "l": 13,
+         "m": 28950,
+         "g": 8150
+      },
+      {
+         "n": "Fødevarer og ernæring (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fødevareteknologi (kandidat)",
+         "l": 11,
+         "m": 32100,
+         "g": 11900
+      },
+      {
+         "n": "Fødevarevidenskab (kandidat)",
+         "l": 9,
+         "m": 31350,
+         "g": 10800
+      },
+      {
+         "n": "General Engineering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Geofysik (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Geofysik og rumteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Geofysik og rumteknologi (kandidat)",
+         "l": 3,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Geografi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Geografi (kandidat)",
+         "l": 12,
+         "m": 29000,
+         "g": 6400
+      },
+      {
+         "n": "Geologi (kandidat)",
+         "l": 18,
+         "m": 27950,
+         "g": 5700
+      },
+      {
+         "n": "Geoscience (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Global Business Informatics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Global Studies (kandidat)",
+         "l": 20,
+         "m": 27550,
+         "g": 12050
+      },
+      {
+         "n": "Global sundhed (kandidat)",
+         "l": 10,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Global udvikling (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Globale forretningssystemer (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Globale områdestudier (kandidat)",
+         "l": 17,
+         "m": 25200,
+         "g": 6700
+      },
+      {
+         "n": "Græsk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Græsk middelalderfilologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Historie (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Historie (kandidat)",
+         "l": 23,
+         "m": 26000,
+         "g": 7300
+      },
+      {
+         "n": "Human ernæring (kandidat)",
+         "l": 19,
+         "m": 28200,
+         "g": 9200
+      },
+      {
+         "n": "Human Resource Management (HRM) (kandidat)",
+         "l": 7,
+         "m": 31900,
+         "g": 6100
+      },
+      {
+         "n": "Human Security (kandidat)",
+         "l": 15,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Humanbiologi (kandidat)",
+         "l": 6,
+         "m": 29000,
+         "g": 9100
+      },
+      {
+         "n": "Humanfysiologi (kandidat)",
+         "l": 10,
+         "m": 27250,
+         "g": 7800
+      },
+      {
+         "n": "Humanistisk bachelor (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Humanistisk-samfundsvidenskabelig idrætsvidenskab (kandidat)",
+         "l": 7,
+         "m": 27850,
+         "g": 6300
+      },
+      {
+         "n": "Humanistisk-teknologisk bachelor (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Husdyrvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Husdyrvidenskab (kandidat)",
+         "l": 9,
+         "m": 27300,
+         "g": 2600
+      },
+      {
+         "n": "Idehistorie (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Idehistorie (kandidat)",
+         "l": 39,
+         "m": 26000,
+         "g": 12000
+      },
+      {
+         "n": "Idræt (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Idræt (kandidat)",
+         "l": 11,
+         "m": 27800,
+         "g": 6400
+      },
+      {
+         "n": "Idrætsteknologi (kandidat)",
+         "l": 15,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Immunologi og inflammation (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Indianske sprog og kulturer (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Indianske sprog og kulturer (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Indien- og sydasienstudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Indoor Environmental and Energy Engineering (kandidat)",
+         "l": 6,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Industriel økonomi og teknologiledelse (kandidat)",
+         "l": 6,
+         "m": 36900,
+         "g": 8800
+      },
+      {
+         "n": "Industrielt design (kandidat)",
+         "l": 28,
+         "m": 28700,
+         "g": 6000
+      },
+      {
+         "n": "Informatik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Informatik (kandidat)",
+         "l": 16,
+         "m": 28350,
+         "g": 8900
+      },
+      {
+         "n": "Information Architecture (kandidat)",
+         "l": 32,
+         "m": 26600,
+         "g": 6100
+      },
+      {
+         "n": "Informationsteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Informationsteknologi (kandidat)",
+         "l": 2,
+         "m": 35650,
+         "g": 9100
+      },
+      {
+         "n": "Informationsvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Informationsvidenskab (kandidat)",
+         "l": 21,
+         "m": 28100,
+         "g": 6950
+      },
+      {
+         "n": "Informationsvidenskab og kulturformidling (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Informationsvidenskab og kulturformidling (kandidat)",
+         "l": 24,
+         "m": 25400,
+         "g": 7600
+      },
+      {
+         "n": "Informationsvidenskab, it og interaktionsdesign (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Innovation and Business (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Innovation and Business (kandidat)",
+         "l": 10,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Innovation og digitalisering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Innovativ kommunikationsteknik og entreprenørskab (kandidat)",
+         "l": 17,
+         "m": 29650,
+         "g": 12800
+      },
+      {
+         "n": "Integrated Food Studies (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Intelligent Reliable Systems (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interaktionsdesign (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interaktionsdesign (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interaktive digitale medier (kandidat)",
+         "l": 46,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interkulturel markedskommunikation (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interkulturel pædagogik og dansk som andetsprog (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interkulturelle markedsstudier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Interkulturelle studier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International Business and Politics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International Business and Politics (kandidat)",
+         "l": 11,
+         "m": 29200,
+         "g": 8750
+      },
+      {
+         "n": "International business, BSc(IB) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International Development Studies (kandidat)",
+         "l": 23,
+         "m": 26200,
+         "g": 11600
+      },
+      {
+         "n": "International Public Administration and Politics (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International Shipping and Trade (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International sikkerhed og folkeret (kandidat)",
+         "l": 21,
+         "m": 27300,
+         "g": 10600
+      },
+      {
+         "n": "International virksomhedskommunikation - to fremmedsprog (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International virksomhedskommunikation i engelsk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International virksomhedskommunikation i fransk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International virksomhedskommunikation i spansk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "International virksomhedskommunikation i tysk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Internationale studier (kandidat)",
+         "l": 17,
+         "m": 28600,
+         "g": 8500
+      },
+      {
+         "n": "Internetteknologier og computersystemer (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Islamiske studier (kandidat)",
+         "l": 29,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It og kognition (kandidat)",
+         "l": 14,
+         "m": 30500,
+         "g": 8300
+      },
+      {
+         "n": "IT Product Design (kandidat)",
+         "l": 16,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It produktudvikling (kandidat)",
+         "l": 9,
+         "m": 32550,
+         "g": 10400
+      },
+      {
+         "n": "It, Communication and New Media (ITCOM) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It, kommunikation og organisation (kandidat)",
+         "l": 6,
+         "m": 33300,
+         "g": 7600
+      },
+      {
+         "n": "It, læring og organisatorisk omstilling (kandidat)",
+         "l": 14,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Italiensk sprog og kultur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Italiensk sprog og kultur (kandidat)",
+         "l": 19,
+         "m": 19000,
+         "g": 17800
+      },
+      {
+         "n": "It-design og applikationsudvikling (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It-didaktisk design (kandidat)",
+         "l": 13,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It-ledelse (kandidat)",
+         "l": 9,
+         "m": 32100,
+         "g": 7800
+      },
+      {
+         "n": "It-produktudvikling (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Japanstudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Japanstudier (kandidat)",
+         "l": 24,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Jordbrug, natur og miljø (kandidat)",
+         "l": 12,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Jordbrugsøkonomi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Jordbrugsøkonomi (kandidat)",
+         "l": 8,
+         "m": 29450,
+         "g": 4700
+      },
+      {
+         "n": "Jordemodervidenskab (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Journalistik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Journalistik (kandidat)",
+         "l": 12,
+         "m": 30300,
+         "g": 10300
+      },
+      {
+         "n": "Jura (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Jura (kandidat)",
+         "l": 6,
+         "m": 31500,
+         "g": 10300
+      },
+      {
+         "n": "Kemi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kemi (civilingeniør) (kandidat)",
+         "l": 8,
+         "m": 32100,
+         "g": 10800
+      },
+      {
+         "n": "Kemi (kandidat)",
+         "l": 8,
+         "m": 26600,
+         "g": 5700
+      },
+      {
+         "n": "Kemi og bioteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kemi og bioteknologi (kandidat)",
+         "l": 10,
+         "m": 27800,
+         "g": 8300
+      },
+      {
+         "n": "Kemisk og biokemisk teknologi (kandidat)",
+         "l": 7,
+         "m": 33500,
+         "g": 12250
+      },
+      {
+         "n": "Kemiteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kinastudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kinastudier (kandidat)",
+         "l": 35,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kiropraktor (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kiropraktor (kandidat)",
+         "l": 0,
+         "m": 34850,
+         "g": 12650
+      },
+      {
+         "n": "Klassisk arkæologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klassisk arkæologi (kandidat)",
+         "l": 29,
+         "m": 24150,
+         "g": 11250
+      },
+      {
+         "n": "Klassisk græsk (kandidat)",
+         "l": 15,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klassiske sprog (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klassiske sprog (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klimaforandringer (kandidat)",
+         "l": 21,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klinisk ernæring (kandidat)",
+         "l": 8,
+         "m": 29700,
+         "g": 11000
+      },
+      {
+         "n": "Klinisk sygepleje (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Klinisk videnskab og teknologi (kandidat)",
+         "l": 9,
+         "m": 28800,
+         "g": 5400
+      },
+      {
+         "n": "Kognition og kommunikation (kandidat)",
+         "l": 25,
+         "m": 26750,
+         "g": 12800
+      },
+      {
+         "n": "Kognitionsvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kognitiv semiotik (kandidat)",
+         "l": 17,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kommunikation (kandidat)",
+         "l": 23,
+         "m": 27400,
+         "g": 8300
+      },
+      {
+         "n": "Kommunikation og digitale medier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kommunikation og it (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kommunikation og it (kandidat)",
+         "l": 3,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kommunikationsdesign (kandidat)",
+         "l": 15,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Konstruktion og mekanik (kandidat)",
+         "l": 2,
+         "m": 35200,
+         "g": 7300
+      },
+      {
+         "n": "Konstruktionsteknik (kandidat)",
+         "l": 5,
+         "m": 32800,
+         "g": 6400
+      },
+      {
+         "n": "Koreastudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kriminologi (kandidat)",
+         "l": 20,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kultur og formidling (kandidat)",
+         "l": 35,
+         "m": 25050,
+         "g": 11800
+      },
+      {
+         "n": "Kultur- og sprogmødestudier (kandidat)",
+         "l": 22,
+         "m": 27100,
+         "g": 8300
+      },
+      {
+         "n": "Kultur, kommunikation og globalisering (kandidat)",
+         "l": 29,
+         "m": 25650,
+         "g": 10500
+      },
+      {
+         "n": "Kunsthistorie (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kunsthistorie (kandidat)",
+         "l": 31,
+         "m": 23000,
+         "g": 10300
+      },
+      {
+         "n": "Kunstig intelligens og data (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kvantitativ biologi og sygdomsmodellering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kvantitativ biologi og sygdomsmodellering (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Landinspektørvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Landinspektørvidenskab (kandidat)",
+         "l": 3,
+         "m": 33500,
+         "g": 4050
+      },
+      {
+         "n": "Landskabsarkitektur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Landskabsarkitektur (kandidat)",
+         "l": 14,
+         "m": 27550,
+         "g": 7400
+      },
+      {
+         "n": "Language and International Studies, English (LISE) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Latin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Latin (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Latinsk middelalderfilologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Ledelse og informatik i byggeriet (kandidat)",
+         "l": 5,
+         "m": 32000,
+         "g": 6000
+      },
+      {
+         "n": "Lighting Design (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Lingvistik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Lingvistik (kandidat)",
+         "l": 16,
+         "m": 27400,
+         "g": 6600
+      },
+      {
+         "n": "Litteraturvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Litteraturvidenskab (kandidat)",
+         "l": 25,
+         "m": 24300,
+         "g": 8200
+      },
+      {
+         "n": "Lyd og akustisk teknologi (kandidat)",
+         "l": 3,
+         "m": 33700,
+         "g": 8500
+      },
+      {
+         "n": "Lyd- og musikteknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Lægemiddelvidenskab (kandidat)",
+         "l": 7,
+         "m": 35700,
+         "g": 12400
+      },
+      {
+         "n": "Læring og forandringsprocesser (kandidat)",
+         "l": 18,
+         "m": 29200,
+         "g": 7750
+      },
+      {
+         "n": "Lærings- og oplevelsesteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Lærings- og oplevelsesteknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Management of Creative Business Processes (kandidat)",
+         "l": 9,
+         "m": 30400,
+         "g": 6700
+      },
+      {
+         "n": "Manufacturing and Operations Engineering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Manufacturing Technology (kandidat)",
+         "l": 3,
+         "m": 34800,
+         "g": 6400
+      },
+      {
+         "n": "Marinarkæologi (kandidat)",
+         "l": 3,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Market and Management Anthropology (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Marketing and Management Communication (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Maskin og produktion (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Maskinkonstruktion (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik (kandidat)",
+         "l": 3,
+         "m": 27550,
+         "g": 7000
+      },
+      {
+         "n": "Matematik og teknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik-teknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik-teknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik-økonomi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Matematik-økonomi (kandidat)",
+         "l": 3,
+         "m": 32800,
+         "g": 10450
+      },
+      {
+         "n": "Matematisk modellering og computing (kandidat)",
+         "l": 3,
+         "m": 33700,
+         "g": 8500
+      },
+      {
+         "n": "Materiale- og procesteknologi (kandidat)",
+         "l": 2,
+         "m": 35300,
+         "g": 7000
+      },
+      {
+         "n": "Materialeteknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Mechatronics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Mechatronics Engineering (kandidat)",
+         "l": 11,
+         "m": 31700,
+         "g": 4400
+      },
+      {
+         "n": "Medialogy (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medialogy (kandidat)",
+         "l": 30,
+         "m": 27850,
+         "g": 11800
+      },
+      {
+         "n": "Medicin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medicin (kandidat)",
+         "l": 1,
+         "m": 38700,
+         "g": 8800
+      },
+      {
+         "n": "Medicin med industriel specialisering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medicin og teknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medicin og teknologi (kandidat)",
+         "l": 4,
+         "m": 34650,
+         "g": 10250
+      },
+      {
+         "n": "Medicinalbiologi (kandidat)",
+         "l": 4,
+         "m": 32350,
+         "g": 8500
+      },
+      {
+         "n": "Medicinalkemi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medicinalkemi (kandidat)",
+         "l": 17,
+         "m": 26200,
+         "g": 7200
+      },
+      {
+         "n": "Medicine with Industrial Specialisation (kandidat)",
+         "l": 10,
+         "m": 29450,
+         "g": 10700
+      },
+      {
+         "n": "Medievidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medievidenskab (kandidat)",
+         "l": 20,
+         "m": 27200,
+         "g": 7000
+      },
+      {
+         "n": "Mekanik (kandidat)",
+         "l": 3,
+         "m": 35500,
+         "g": 5500
+      },
+      {
+         "n": "Mellemøstens sprog og samfund (arabisk, hebraisk, persisk, tyrkisk) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Mellemøstens sprog og samfund (assyriologi, nærorientalsk arkæologi, ægyptologi) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Mellemøststudier (kandidat)",
+         "l": 22,
+         "m": 26700,
+         "g": 11500
+      },
+      {
+         "n": "Middelalder- og renæssancearkæologi (kandidat)",
+         "l": 39,
+         "m": 26100,
+         "g": 7600
+      },
+      {
+         "n": "Migrationsstudier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Miljøteknologi (kandidat)",
+         "l": 9,
+         "m": 32200,
+         "g": 11600
+      },
+      {
+         "n": "Miljøvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Miljøvidenskab (kandidat)",
+         "l": 9,
+         "m": 27500,
+         "g": 6500
+      },
+      {
+         "n": "Moderne kultur og kulturformidling (kandidat)",
+         "l": 23,
+         "m": 24300,
+         "g": 13200
+      },
+      {
+         "n": "Molecular Biology (kandidat)",
+         "l": 15,
+         "m": 26100,
+         "g": 5200
+      },
+      {
+         "n": "Molekylær ernæring og fødevareteknologi (kandidat)",
+         "l": 14,
+         "m": 26100,
+         "g": 4100
+      },
+      {
+         "n": "Molekylær medicin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Molekylær medicin (kandidat)",
+         "l": 12,
+         "m": 26100,
+         "g": 4200
+      },
+      {
+         "n": "Molekylærbiologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Musikterapi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Musikterapi (kandidat)",
+         "l": 10,
+         "m": 19100,
+         "g": 18300
+      },
+      {
+         "n": "Musikvidenskab (kandidat)",
+         "l": 15,
+         "m": 24500,
+         "g": 11100
+      },
+      {
+         "n": "Nanobiotechnology (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Nanomaterials and Nanophysics (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Nanoscience (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Nanoscience (kandidat)",
+         "l": 12,
+         "m": 26100,
+         "g": 4300
+      },
+      {
+         "n": "Nanoscience og teknologi (kandidat)",
+         "l": 10,
+         "m": 26100,
+         "g": 900
+      },
+      {
+         "n": "Nanoteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Naturforvaltning (kandidat)",
+         "l": 16,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Naturressourcer (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Naturressourcer og udvikling (kandidat)",
+         "l": 9,
+         "m": 27800,
+         "g": 5300
+      },
+      {
+         "n": "Naturvidenskabelig bachelor (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Netværk og distribuerede systemer (kandidat)",
+         "l": 0,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Netværksteknologi og it (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Neuroscience and Neuroimaging (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Nordisk urban planlægning (kandidat)",
+         "l": 19,
+         "m": 27700,
+         "g": 7300
+      },
+      {
+         "n": "Nærorientalsk arkæologi (kandidat)",
+         "l": 38,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Odontologi (Tandlæge) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Odontologi (Tandlæge) (kandidat)",
+         "l": 3,
+         "m": 41700,
+         "g": 21500
+      },
+      {
+         "n": "Oldtidskundskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Oldtidskundskab (kandidat)",
+         "l": 20,
+         "m": 28300,
+         "g": 5200
+      },
+      {
+         "n": "Olie- og gasteknologi (kandidat)",
+         "l": 10,
+         "m": 32600,
+         "g": 10900
+      },
+      {
+         "n": "Operations and Innovation Management (kandidat)",
+         "l": 16,
+         "m": 32900,
+         "g": 12750
+      },
+      {
+         "n": "Operations Management (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Oplevelsesdesign (kandidat)",
+         "l": 24,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Oplevelsesøkonomi (kandidat)",
+         "l": 28,
+         "m": 26900,
+         "g": 5900
+      },
+      {
+         "n": "Optometri og synsvidenskab (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Organisational Innovation and Entrepreneurship (kandidat)",
+         "l": 13,
+         "m": 28800,
+         "g": 12200
+      },
+      {
+         "n": "Organisatorisk læring (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Performance Design (kandidat)",
+         "l": 29,
+         "m": 23400,
+         "g": 9300
+      },
+      {
+         "n": "Plan, by og proces (kandidat)",
+         "l": 21,
+         "m": 27950,
+         "g": 4600
+      },
+      {
+         "n": "Politik og administration (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Politik og administration (kandidat)",
+         "l": 16,
+         "m": 25850,
+         "g": 11800
+      },
+      {
+         "n": "Politik og økonomi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Politisk kommunikation og ledelse (kandidat)",
+         "l": 12,
+         "m": 29800,
+         "g": 8100
+      },
+      {
+         "n": "Polsk sprog og kultur (kandidat)",
+         "l": 22,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Portugisiske og brasilianske studier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Portugisiske og brasilianske studier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Product Development and Innovation (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Product Development and Innovation (kandidat)",
+         "l": 9,
+         "m": 32100,
+         "g": 5700
+      },
+      {
+         "n": "Produkt- og designpsykologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Produkt- og designpsykologi (kandidat)",
+         "l": 33,
+         "m": 30600,
+         "g": 5700
+      },
+      {
+         "n": "Produktion (kandidat)",
+         "l": 2,
+         "m": 35000,
+         "g": 6450
+      },
+      {
+         "n": "Produktion og konstruktion (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Psykologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Psykologi (kandidat)",
+         "l": 9,
+         "m": 27100,
+         "g": 5700
+      },
+      {
+         "n": "Pædagogik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Pædagogik (kandidat)",
+         "l": 15,
+         "m": 29300,
+         "g": 8600
+      },
+      {
+         "n": "Pædagogisk antropologi (kandidat)",
+         "l": 15,
+         "m": 28200,
+         "g": 9100
+      },
+      {
+         "n": "Pædagogisk filosofi (kandidat)",
+         "l": 19,
+         "m": 28100,
+         "g": 11100
+      },
+      {
+         "n": "Pædagogisk psykologi (kandidat)",
+         "l": 12,
+         "m": 29300,
+         "g": 8100
+      },
+      {
+         "n": "Pædagogisk sociologi (kandidat)",
+         "l": 13,
+         "m": 29400,
+         "g": 7750
+      },
+      {
+         "n": "Regulering og automation (kandidat)",
+         "l": 5,
+         "m": 37000,
+         "g": 9200
+      },
+      {
+         "n": "Religionsvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Religionsvidenskab (kandidat)",
+         "l": 21,
+         "m": 26000,
+         "g": 8500
+      },
+      {
+         "n": "Retorik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Retorik (kandidat)",
+         "l": 17,
+         "m": 29100,
+         "g": 10000
+      },
+      {
+         "n": "Revisorkandidat, cand.merc.aud. (kandidat)",
+         "l": 3,
+         "m": 38000,
+         "g": 15500
+      },
+      {
+         "n": "Robot Systems (kandidat)",
+         "l": 5,
+         "m": 33500,
+         "g": 7300
+      },
+      {
+         "n": "Robotics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Robotteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Rusland- og balkanstudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Russisk sprog og kultur (kandidat)",
+         "l": 19,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Samfundsfag (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Samfundsfag (kandidat)",
+         "l": 12,
+         "m": 29300,
+         "g": 6200
+      },
+      {
+         "n": "Samfundsvidenskabelig bachelor (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Samfundsvidenskabelig jura (kandidat)",
+         "l": 1,
+         "m": 34800,
+         "g": 14500
+      },
+      {
+         "n": "Service management (kandidat)",
+         "l": 13,
+         "m": 29200,
+         "g": 10000
+      },
+      {
+         "n": "Service Systems Design (kandidat)",
+         "l": 0,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Signal Processing and Acoustics (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sikkerhed og risikostyring (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sikkerheds- og risikoledelse (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skovbrugsvidenskab (kandidat)",
+         "l": 7,
+         "m": 29700,
+         "g": 4000
+      },
+      {
+         "n": "Social Entrepreneurship and Management (kandidat)",
+         "l": 19,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sociale interventionsstudier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Socialt arbejde (kandidat)",
+         "l": 9,
+         "m": 30200,
+         "g": 8050
+      },
+      {
+         "n": "Socialvidenskab (kandidat)",
+         "l": 18,
+         "m": 27900,
+         "g": 5800
+      },
+      {
+         "n": "Sociologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sociologi (kandidat)",
+         "l": 16,
+         "m": 28300,
+         "g": 5600
+      },
+      {
+         "n": "Sociologi og kulturanalyse (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Software (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Software (kandidat)",
+         "l": 4,
+         "m": 34250,
+         "g": 6850
+      },
+      {
+         "n": "Software Engineering (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Software Engineering (kandidat)",
+         "l": 1,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Softwareteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Softwareudvikling (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Softwareudvikling (design) (kandidat)",
+         "l": 5,
+         "m": 35350,
+         "g": 10500
+      },
+      {
+         "n": "Spansk sprog og kultur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Spansk sprog og kultur (kandidat)",
+         "l": 19,
+         "m": 26450,
+         "g": 8800
+      },
+      {
+         "n": "Spansk, sprog og internationale studier (SIS) (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Spatial Designs and Society (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Spil (spiludvikling eller softwareudvikling) (kandidat)",
+         "l": 15,
+         "m": 26800,
+         "g": 10000
+      },
+      {
+         "n": "Sprogpsykologi (kandidat)",
+         "l": 20,
+         "m": 26550,
+         "g": 8050
+      },
+      {
+         "n": "Statistik (kandidat)",
+         "l": 3,
+         "m": 27550,
+         "g": 5450
+      },
+      {
+         "n": "Statskundskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Statskundskab (kandidat)",
+         "l": 6,
+         "m": 30200,
+         "g": 6250
+      },
+      {
+         "n": "Strategisk analyse og systemdesign (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sundhed og informatik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sundhed og informatik (kandidat)",
+         "l": 6,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sundhedsfaglig kandidat (kandidat)",
+         "l": 7,
+         "m": 30950,
+         "g": 7400
+      },
+      {
+         "n": "Sundhedsfremme og sundhedsstrategier (kandidat)",
+         "l": 19,
+         "m": 27600,
+         "g": 8300
+      },
+      {
+         "n": "Sundhedsinnovation (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sundhedsteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sustainable Biotechnology (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sustainable Biotechnology (kandidat)",
+         "l": 13,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sustainable Cities (kandidat)",
+         "l": 21,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sustainable Energy Engineering (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Sygepleje (kandidat)",
+         "l": 3,
+         "m": 30300,
+         "g": 8250
+      },
+      {
+         "n": "Teater- og performancestudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teater- og performancestudier (kandidat)",
+         "l": 28,
+         "m": 23900,
+         "g": 10800
+      },
+      {
+         "n": "Teknisk biomedicin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teknoantropologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teknoantropologi (kandidat)",
+         "l": 25,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teknologibaseret forretningsudvikling (kandidat)",
+         "l": 5,
+         "m": 34300,
+         "g": 8200
+      },
+      {
+         "n": "TekSam - miljøplanlægning (kandidat)",
+         "l": 19,
+         "m": 27700,
+         "g": 7300
+      },
+      {
+         "n": "Telekommunikation (kandidat)",
+         "l": 4,
+         "m": 33900,
+         "g": 8800
+      },
+      {
+         "n": "Teologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teologi (kandidat)",
+         "l": 16,
+         "m": 27700,
+         "g": 6600
+      },
+      {
+         "n": "Tourism (kandidat)",
+         "l": 22,
+         "m": 24500,
+         "g": 10200
+      },
+      {
+         "n": "Transport og logistik (kandidat)",
+         "l": 4,
+         "m": 33700,
+         "g": 8500
+      },
+      {
+         "n": "Trådløse kommunikationssystemer (kandidat)",
+         "l": 4,
+         "m": 33800,
+         "g": 8900
+      },
+      {
+         "n": "Tværkulturelle studier (kandidat)",
+         "l": 30,
+         "m": 25600,
+         "g": 8500
+      },
+      {
+         "n": "Tysk (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Tysk (kandidat)",
+         "l": 13,
+         "m": 27550,
+         "g": 6400
+      },
+      {
+         "n": "Uddannelsesvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Uddannelsesvidenskab (kandidat)",
+         "l": 10,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Urban Design (kandidat)",
+         "l": 11,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Vand og miljø (kandidat)",
+         "l": 8,
+         "m": 30400,
+         "g": 5100
+      },
+      {
+         "n": "Vand, bioressourcer og miljømanagement (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Veje og trafik (kandidat)",
+         "l": 0,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Velfærdsteknologi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Velfærdsteknologi (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Veterinærmedicin (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Veterinærmedicin (kandidat)",
+         "l": 6,
+         "m": 31300,
+         "g": 9850
+      },
+      {
+         "n": "Videnskabsstudier (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Vindenergi (kandidat)",
+         "l": 9,
+         "m": 33250,
+         "g": 10500
+      },
+      {
+         "n": "Virksomhedskommunikation (kandidat)",
+         "l": 18,
+         "m": 27700,
+         "g": 7700
+      },
+      {
+         "n": "Virksomhedsledelse (kandidat)",
+         "l": 19,
+         "m": 26800,
+         "g": 10200
+      },
+      {
+         "n": "Virksomhedsstudier (kandidat)",
+         "l": 26,
+         "m": 27600,
+         "g": 9200
+      },
+      {
+         "n": "Virksomhedssystemer (kandidat)",
+         "l": 5,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Vision, grafik og interaktive systemer (kandidat)",
+         "l": 6,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Visuel kultur (kandidat)",
+         "l": 27,
+         "m": 23100,
+         "g": 12800
+      },
+      {
+         "n": "Værdikæder og teknisk ledelse (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Webkommunikation (kandidat)",
+         "l": 11,
+         "m": 31350,
+         "g": 7700
+      },
+      {
+         "n": "Ægyptologi (kandidat)",
+         "l": 38,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Æstetik og kultur (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Æstetik og kultur (kandidat)",
+         "l": 34,
+         "m": 21200,
+         "g": 9600
+      },
+      {
+         "n": "Økonomi (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Økonomi (kandidat)",
+         "l": 5,
+         "m": 33950,
+         "g": 10800
+      },
+      {
+         "n": "Østeuropastudier (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Østeuropastudier (kandidat)",
+         "l": 30,
+         "m": 23700,
+         "g": 13400
+      }
+   ],
+   "Professionsbacheloruddannelser": [
+      {
+         "n": "Animation (Karakteranimation eller Computer Grafic Arts)",
+         "l": 14,
+         "m": 21900,
+         "g": 11300
+      },
+      {
+         "n": "Arktisk teknologi (diplomingeniør)",
+         "l": 2,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bandagist",
+         "l": 0,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Bioanalytiker",
+         "l": 4,
+         "m": 25000,
+         "g": 2500
+      },
+      {
+         "n": "Bioteknologi (diplomingeniør)",
+         "l": 8,
+         "m": 30500,
+         "g": 6500
+      },
+      {
+         "n": "Business Development Engineer (diplomingeniør)",
+         "l": 19,
+         "m": 32900,
+         "g": 9200
+      },
+      {
+         "n": "Bygning (diplomingeniør)",
+         "l": 4,
+         "m": 31800,
+         "g": 5500
+      },
+      {
+         "n": "Bygningsdesign (diplomingeniør)",
+         "l": 3,
+         "m": 30300,
+         "g": 4850
+      },
+      {
+         "n": "Bygningskonstruktør",
+         "l": 8,
+         "m": 30000,
+         "g": 6100
+      },
+      {
+         "n": "Bæredygtig energiteknik (diplomingeniør)",
+         "l": 13,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Design og business",
+         "l": 16,
+         "m": 22500,
+         "g": 6500
+      },
+      {
+         "n": "Diakoni og socialpædagogik",
+         "l": 8,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Digital konceptudvikling",
+         "l": 21,
+         "m": 23400,
+         "g": 9300
+      },
+      {
+         "n": "E-handel",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Eksport og teknologi",
+         "l": 24,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Eksport og teknologi (diplomingeniør)",
+         "l": 12,
+         "m": 31200,
+         "g": 9400
+      },
+      {
+         "n": "Eksportteknologi (diplomingeniør)",
+         "l": 6,
+         "m": 33150,
+         "g": 6100
+      },
+      {
+         "n": "Electronics (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektrisk energiteknologi (diplomingeniør)",
+         "l": 1,
+         "m": 36250,
+         "g": 7550
+      },
+      {
+         "n": "Elektronik (diplomingeniør)",
+         "l": 7,
+         "m": 32950,
+         "g": 5800
+      },
+      {
+         "n": "Elektroteknologi (diplomingeniør)",
+         "l": 8,
+         "m": 34800,
+         "g": 6100
+      },
+      {
+         "n": "Energimanagement",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Ergoterapeut",
+         "l": 13,
+         "m": 23700,
+         "g": 5200
+      },
+      {
+         "n": "Erhvervssprog og it-baseret markedskommunikation",
+         "l": 8,
+         "m": 23300,
+         "g": 6200
+      },
+      {
+         "n": "Ernæring og sundhed",
+         "l": 12,
+         "m": 22600,
+         "g": 8500
+      },
+      {
+         "n": "Finans",
+         "l": 4,
+         "m": 28350,
+         "g": 8650
+      },
+      {
+         "n": "Forsyningsteknik (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fotojournalist",
+         "l": 16,
+         "m": 18300,
+         "g": 20400
+      },
+      {
+         "n": "Fysioterapeut",
+         "l": 6,
+         "m": 23800,
+         "g": 6000
+      },
+      {
+         "n": "Fødevaresikkerhed og -kvalitet (diplomingeniør)",
+         "l": 1,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fødevareteknologi og applikation",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Global Management and Manufacturing (GMM Engineer) (diplomingeniør)",
+         "l": 8,
+         "m": 33000,
+         "g": 8100
+      },
+      {
+         "n": "Global Nutrition and Health",
+         "l": 15,
+         "m": 20300,
+         "g": 11000
+      },
+      {
+         "n": "Grafisk fortælling",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Grafisk kommunikation",
+         "l": 19,
+         "m": 24400,
+         "g": 5400
+      },
+      {
+         "n": "Have- og parkingeniør",
+         "l": 12,
+         "m": 32150,
+         "g": 7050
+      },
+      {
+         "n": "Innovation og entrepreneurship",
+         "l": 17,
+         "m": 24100,
+         "g": 10600
+      },
+      {
+         "n": "Integreret design (diplomingeniør)",
+         "l": 10,
+         "m": 31200,
+         "g": 6200
+      },
+      {
+         "n": "International handel og markedsføring",
+         "l": 13,
+         "m": 23400,
+         "g": 9400
+      },
+      {
+         "n": "International Hospitality Management",
+         "l": 16,
+         "m": 23000,
+         "g": 8100
+      },
+      {
+         "n": "It og økonomi (diplomingeniør)",
+         "l": 7,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It-elektronik (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "It-sikkerhed",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Jordbrug",
+         "l": 17,
+         "m": 25700,
+         "g": 8600
+      },
+      {
+         "n": "Jordemoder",
+         "l": 2,
+         "m": 27700,
+         "g": 5500
+      },
+      {
+         "n": "Journalist",
+         "l": 10,
+         "m": 31800,
+         "g": 8400
+      },
+      {
+         "n": "Katastrofe- og risikomanager",
+         "l": 8,
+         "m": 27850,
+         "g": 8100
+      },
+      {
+         "n": "Kemi (diplomingeniør)",
+         "l": 9,
+         "m": 32600,
+         "g": 7700
+      },
+      {
+         "n": "Kemi og fødevareteknologi (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kemiteknik og international business (diplomingeniør)",
+         "l": 7,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Kommunikation",
+         "l": 9,
+         "m": 28100,
+         "g": 8500
+      },
+      {
+         "n": "Kristendom, kultur og kommunikation",
+         "l": 24,
+         "m": 22000,
+         "g": 10800
+      },
+      {
+         "n": "Laboratorie-, fødevare- og procesteknologi",
+         "l": 12,
+         "m": 29550,
+         "g": 8500
+      },
+      {
+         "n": "Leisure Management",
+         "l": 11,
+         "m": 23550,
+         "g": 9600
+      },
+      {
+         "n": "Lærer fra Den frie Lærerskole",
+         "l": 16,
+         "m": 27000,
+         "g": 9900
+      },
+      {
+         "n": "Lærer i folkeskolen",
+         "l": 5,
+         "m": 29800,
+         "g": 3900
+      },
+      {
+         "n": "Maskinmester",
+         "l": 4,
+         "m": 36100,
+         "g": 11900
+      },
+      {
+         "n": "Maskinteknik (diplomingeniør)",
+         "l": 5,
+         "m": 33300,
+         "g": 6200
+      },
+      {
+         "n": "Materialeteknologi (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Medie- og sonokommunikation",
+         "l": 21,
+         "m": 18400,
+         "g": 13200
+      },
+      {
+         "n": "Medieproduktion og ledelse",
+         "l": 14,
+         "m": 26300,
+         "g": 10600
+      },
+      {
+         "n": "Mekatronik (diplomingeniør)",
+         "l": 3,
+         "m": 32950,
+         "g": 5500
+      },
+      {
+         "n": "Mobilitet, transport og logistik (diplomingeniør)",
+         "l": 6,
+         "m": 32350,
+         "g": 6800
+      },
+      {
+         "n": "Multiplatform storytelling and production",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Natur- og kulturformidling",
+         "l": 28,
+         "m": 19950,
+         "g": 8300
+      },
+      {
+         "n": "Offentlig administration",
+         "l": 12,
+         "m": 26100,
+         "g": 6650
+      },
+      {
+         "n": "Optometrist",
+         "l": 1,
+         "m": 29700,
+         "g": 5200
+      },
+      {
+         "n": "Proces og innovation (diplomingeniør)",
+         "l": 6,
+         "m": 36250,
+         "g": 9750
+      },
+      {
+         "n": "Produktion (diplomingeniør)",
+         "l": 8,
+         "m": 36450,
+         "g": 8400
+      },
+      {
+         "n": "Produktudvikling og teknisk integration",
+         "l": 17,
+         "m": 28950,
+         "g": 10050
+      },
+      {
+         "n": "Psykomotorisk terapeut",
+         "l": 22,
+         "m": 20700,
+         "g": 10000
+      },
+      {
+         "n": "Pædagog",
+         "l": 9,
+         "m": 24800,
+         "g": 5800
+      },
+      {
+         "n": "Radiograf",
+         "l": 5,
+         "m": 26600,
+         "g": 2800
+      },
+      {
+         "n": "Robotteknologi (diplomingeniør)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skibsfører",
+         "l": 0,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skibsofficer",
+         "l": 1,
+         "m": 25000,
+         "g": 5200
+      },
+      {
+         "n": "Skov- og landskabsingeniør",
+         "l": 11,
+         "m": 28100,
+         "g": 9000
+      },
+      {
+         "n": "Smykker, teknologi og business",
+         "l": 12,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Socialrådgiver",
+         "l": 7,
+         "m": 28050,
+         "g": 3600
+      },
+      {
+         "n": "Softwareteknologi (diplomingeniør)",
+         "l": 6,
+         "m": 33100,
+         "g": 7500
+      },
+      {
+         "n": "Softwareudvikling",
+         "l": 6,
+         "m": 29700,
+         "g": 7900
+      },
+      {
+         "n": "Sportsmanagement",
+         "l": 17,
+         "m": 22800,
+         "g": 8800
+      },
+      {
+         "n": "Sundhedsteknologi (diplomingeniør)",
+         "l": 4,
+         "m": 30900,
+         "g": 7400
+      },
+      {
+         "n": "Sygeplejerske",
+         "l": 2,
+         "m": 27100,
+         "g": 5100
+      },
+      {
+         "n": "Tandplejer",
+         "l": 12,
+         "m": 23600,
+         "g": 6300
+      },
+      {
+         "n": "Tegnsprogs- og skrivetolk",
+         "l": 1,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Teknisk manager offshore",
+         "l": 7,
+         "m": 36600,
+         "g": 11500
+      },
+      {
+         "n": "Tekstildesign, -håndværk og formidling",
+         "l": 23,
+         "m": 20100,
+         "g": 8400
+      },
+      {
+         "n": "Tv- og medietilrettelæggelse",
+         "l": 18,
+         "m": 38000,
+         "g": 14500
+      },
+      {
+         "n": "Value Chain Management",
+         "l": 15,
+         "m": 26700,
+         "g": 11800
+      },
+      {
+         "n": "Visuel kommunikation",
+         "l": 14,
+         "m": 25500,
+         "g": 9350
+      },
+      {
+         "n": "Webudvikling",
+         "l": 13,
+         "m": 25700,
+         "g": 8300
+      },
+      {
+         "n": "Økonomi og it",
+         "l": 4,
+         "m": "-",
+         "g": "-"
+      }
+   ],
+   "Erhvervsuddannelser (EUD)": [
+      {
+         "n": "Anlægsgartner",
+         "l": 12,
+         "m": 25300,
+         "g": 5700
+      },
+      {
+         "n": "Anlægsstruktør, bygningsstruktør og brolægger",
+         "l": 5,
+         "m": 28800,
+         "g": 8200
+      },
+      {
+         "n": "Autolakerer",
+         "l": 10,
+         "m": 25700,
+         "g": 5400
+      },
+      {
+         "n": "Automatik- og procesuddannelsen",
+         "l": 6,
+         "m": 32600,
+         "g": 8200
+      },
+      {
+         "n": "Bager og konditor",
+         "l": 8,
+         "m": 24500,
+         "g": 5700
+      },
+      {
+         "n": "Beklædningshåndværker",
+         "l": 24,
+         "m": 17400,
+         "g": 9800
+      },
+      {
+         "n": "Beslagsmed",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Boligmonteringsuddannelsen",
+         "l": 2,
+         "m": 22900,
+         "g": 4500
+      },
+      {
+         "n": "Buschauffør i kollektiv trafik",
+         "l": 1,
+         "m": 28400,
+         "g": 5300
+      },
+      {
+         "n": "Byggemontagetekniker",
+         "l": 29,
+         "m": 18600,
+         "g": 11400
+      },
+      {
+         "n": "Bygningsmaler",
+         "l": 16,
+         "m": 24800,
+         "g": 6300
+      },
+      {
+         "n": "Bygningssnedker",
+         "l": 12,
+         "m": 25700,
+         "g": 6700
+      },
+      {
+         "n": "Bådmekaniker",
+         "l": 14,
+         "m": 24700,
+         "g": 3700
+      },
+      {
+         "n": "Cnc-teknikuddannelsen",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Cykel- og motorcykelmekanikeruddannelsen",
+         "l": 12,
+         "m": 22150,
+         "g": 5100
+      },
+      {
+         "n": "Data- og kommunikationsuddannelsen",
+         "l": 10,
+         "m": 26600,
+         "g": 6800
+      },
+      {
+         "n": "Den pædagogiske assistentuddannelse",
+         "l": 20,
+         "m": 20100,
+         "g": 7100
+      },
+      {
+         "n": "Detailhandel",
+         "l": 12,
+         "m": 21300,
+         "g": 5100
+      },
+      {
+         "n": "Digital media",
+         "l": 10,
+         "m": 25350,
+         "g": 4150
+      },
+      {
+         "n": "Dyrepasser",
+         "l": 13,
+         "m": 19800,
+         "g": 9000
+      },
+      {
+         "n": "Ejendomsservicetekniker",
+         "l": 10,
+         "m": 29400,
+         "g": 5350
+      },
+      {
+         "n": "Elektriker",
+         "l": 4,
+         "m": 29600,
+         "g": 6600
+      },
+      {
+         "n": "Elektronik- og svagstrømsuddannelsen",
+         "l": 5,
+         "m": 26800,
+         "g": 9200
+      },
+      {
+         "n": "Elektronikoperatør",
+         "l": 0,
+         "m": 26250,
+         "g": 4500
+      },
+      {
+         "n": "Entreprenør- og landbrugsmaskinuddannelsen",
+         "l": 3,
+         "m": 29350,
+         "g": 7100
+      },
+      {
+         "n": "Ernæringsassistent",
+         "l": 19,
+         "m": 20450,
+         "g": 5600
+      },
+      {
+         "n": "Eventkoordinator",
+         "l": 13,
+         "m": 24200,
+         "g": 9450
+      },
+      {
+         "n": "Film- og tv-produktionsuddannelsen",
+         "l": 7,
+         "m": 24500,
+         "g": 18950
+      },
+      {
+         "n": "Finansuddannelsen",
+         "l": 1,
+         "m": 30800,
+         "g": 6000
+      },
+      {
+         "n": "Finmekaniker",
+         "l": 8,
+         "m": 29950,
+         "g": 6300
+      },
+      {
+         "n": "Fitnessinstruktør",
+         "l": 9,
+         "m": 18550,
+         "g": 14700
+      },
+      {
+         "n": "Flytekniker",
+         "l": 0,
+         "m": 39350,
+         "g": 15800
+      },
+      {
+         "n": "Forsyningsoperatør",
+         "l": 0,
+         "m": 31700,
+         "g": 7100
+      },
+      {
+         "n": "Fotograf",
+         "l": 12,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Frisør",
+         "l": 7,
+         "m": 21500,
+         "g": 7100
+      },
+      {
+         "n": "Frontline pc-supporter",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Frontline radio-tv-supporter",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Gartner",
+         "l": 25,
+         "m": 22500,
+         "g": 7100
+      },
+      {
+         "n": "Gastronom",
+         "l": 10,
+         "m": 25000,
+         "g": 6600
+      },
+      {
+         "n": "Glarmester",
+         "l": 9,
+         "m": 28000,
+         "g": 4400
+      },
+      {
+         "n": "Gourmetslagter (Detailslagter)",
+         "l": 7,
+         "m": 23600,
+         "g": 5100
+      },
+      {
+         "n": "Grafisk tekniker",
+         "l": 11,
+         "m": 28950,
+         "g": 14850
+      },
+      {
+         "n": "Greenkeeper",
+         "l": 10,
+         "m": 26800,
+         "g": 5000
+      },
+      {
+         "n": "Guld- og sølvsmedeuddannelsen",
+         "l": 7,
+         "m": 21900,
+         "g": 11750
+      },
+      {
+         "n": "Handelsuddannelsen",
+         "l": 7,
+         "m": 24300,
+         "g": 6100
+      },
+      {
+         "n": "Havne- og terminaluddannelsen",
+         "l": 4,
+         "m": 55550,
+         "g": 31400
+      },
+      {
+         "n": "Hospitalsteknisk assistent",
+         "l": 3,
+         "m": 26700,
+         "g": 6700
+      },
+      {
+         "n": "Industrioperatør",
+         "l": 1,
+         "m": 36700,
+         "g": 9100
+      },
+      {
+         "n": "Industriteknikeruddannelsen",
+         "l": 8,
+         "m": 29650,
+         "g": 7900
+      },
+      {
+         "n": "Karrosseriuddannelsen",
+         "l": 10,
+         "m": 26000,
+         "g": 5400
+      },
+      {
+         "n": "Kontoruddannelsen",
+         "l": 9,
+         "m": 24000,
+         "g": 5200
+      },
+      {
+         "n": "Kosmetiker",
+         "l": 11,
+         "m": 18900,
+         "g": 9400
+      },
+      {
+         "n": "Kranfører",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Køletekniker",
+         "l": 5,
+         "m": 37900,
+         "g": 15700
+      },
+      {
+         "n": "Laboratorietandtekniker",
+         "l": 33,
+         "m": 18000,
+         "g": 13100
+      },
+      {
+         "n": "Lager- og terminaluddannelsen",
+         "l": 10,
+         "m": 26100,
+         "g": 7500
+      },
+      {
+         "n": "Landbrugsuddannelsen",
+         "l": 6,
+         "m": 25200,
+         "g": 8600
+      },
+      {
+         "n": "Lastvognsmekaniker",
+         "l": 6,
+         "m": 31850,
+         "g": 9200
+      },
+      {
+         "n": "Lufthavnsuddannelsen",
+         "l": 1,
+         "m": 35200,
+         "g": 5100
+      },
+      {
+         "n": "Maritime håndværksfag",
+         "l": 6,
+         "m": 24350,
+         "g": 6300
+      },
+      {
+         "n": "Maskinsnedker",
+         "l": 8,
+         "m": 24800,
+         "g": 5800
+      },
+      {
+         "n": "Mediegrafiker",
+         "l": 16,
+         "m": 24800,
+         "g": 6600
+      },
+      {
+         "n": "Mejerist",
+         "l": 4,
+         "m": 37700,
+         "g": 6800
+      },
+      {
+         "n": "Metalsmed",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Murer",
+         "l": 12,
+         "m": 27100,
+         "g": 5800
+      },
+      {
+         "n": "Møbelsnedker og orgelbygger",
+         "l": 12,
+         "m": 25700,
+         "g": 6700
+      },
+      {
+         "n": "Ortopædist",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Overfladebehandler",
+         "l": 1,
+         "m": 26700,
+         "g": 13200
+      },
+      {
+         "n": "Personvognsmekaniker",
+         "l": 11,
+         "m": 24700,
+         "g": 6900
+      },
+      {
+         "n": "Plastmager",
+         "l": 6,
+         "m": 29900,
+         "g": 8600
+      },
+      {
+         "n": "Procesoperatør",
+         "l": 2,
+         "m": 37800,
+         "g": 8800
+      },
+      {
+         "n": "Produktør",
+         "l": 22,
+         "m": 23400,
+         "g": 6500
+      },
+      {
+         "n": "Receptionist",
+         "l": 7,
+         "m": 23200,
+         "g": 4200
+      },
+      {
+         "n": "Redderuddannelsen",
+         "l": 1,
+         "m": 32500,
+         "g": 5500
+      },
+      {
+         "n": "Serviceassistent",
+         "l": 8,
+         "m": 23300,
+         "g": 4300
+      },
+      {
+         "n": "Sikkerhedsvagt",
+         "l": 6,
+         "m": 29350,
+         "g": 11500
+      },
+      {
+         "n": "Skibsmekaniker",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skibsmontør",
+         "l": 5,
+         "m": 37000,
+         "g": 11400
+      },
+      {
+         "n": "Skiltetekniker",
+         "l": 20,
+         "m": 22650,
+         "g": 7800
+      },
+      {
+         "n": "Skorstensfejer",
+         "l": 8,
+         "m": 31100,
+         "g": 4200
+      },
+      {
+         "n": "Skov- og naturtekniker",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Slagter",
+         "l": 10,
+         "m": 29300,
+         "g": 7900
+      },
+      {
+         "n": "Smed",
+         "l": 8,
+         "m": 29000,
+         "g": 8000
+      },
+      {
+         "n": "Snedker",
+         "l": 12,
+         "m": 25200,
+         "g": 6900
+      },
+      {
+         "n": "Social- og sundhedsassistent",
+         "l": 7,
+         "m": 22700,
+         "g": 6400
+      },
+      {
+         "n": "Social- og sundhedshjælper",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Stenhugger",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Stukkatør",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Støberitekniker",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Tagdækker",
+         "l": 6,
+         "m": 27800,
+         "g": 5100
+      },
+      {
+         "n": "Tandklinikassistent",
+         "l": 16,
+         "m": 20300,
+         "g": 5200
+      },
+      {
+         "n": "Tarmrenser",
+         "l": 13,
+         "m": 27450,
+         "g": 10700
+      },
+      {
+         "n": "Teater-, udstillings- og eventtekniker",
+         "l": 8,
+         "m": 26600,
+         "g": 9800
+      },
+      {
+         "n": "Teknisk designer",
+         "l": 17,
+         "m": 25700,
+         "g": 5500
+      },
+      {
+         "n": "Teknisk isolatør",
+         "l": 6,
+         "m": 30200,
+         "g": 6900
+      },
+      {
+         "n": "Tjener",
+         "l": 6,
+         "m": 25400,
+         "g": 6100
+      },
+      {
+         "n": "Togklargøringsuddannelsen",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Træfagenes byggeuddannelse",
+         "l": 7,
+         "m": 27100,
+         "g": 6300
+      },
+      {
+         "n": "Turistbuschauffør",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Urmager",
+         "l": 25,
+         "m": 21700,
+         "g": 10100
+      },
+      {
+         "n": "Vejgodstransportuddannelsen",
+         "l": 3,
+         "m": 33050,
+         "g": 9900
+      },
+      {
+         "n": "Veterinærsygeplejerske",
+         "l": 4,
+         "m": 22350,
+         "g": 5050
+      },
+      {
+         "n": "Vindmølleoperatør",
+         "l": 2,
+         "m": 34600,
+         "g": 6500
+      },
+      {
+         "n": "VVS-energiuddannelsen",
+         "l": 8,
+         "m": 30000,
+         "g": 7450
+      },
+      {
+         "n": "Værktøjsuddannelsen",
+         "l": 5,
+         "m": 30400,
+         "g": 7600
+      },
+      {
+         "n": "Web-integrator",
+         "l": 26,
+         "m": 18500,
+         "g": 12600
+      }
+   ],
+   "Erhvervsakademiuddannelser": [
+      {
+         "n": "Administrationsøkonom",
+         "l": 23,
+         "m": 22950,
+         "g": 8700
+      },
+      {
+         "n": "Automationsteknolog",
+         "l": 7,
+         "m": 35950,
+         "g": 10100
+      },
+      {
+         "n": "Autoteknolog",
+         "l": 11,
+         "m": 25450,
+         "g": 8200
+      },
+      {
+         "n": "Byggekoordinator",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Byggetekniker",
+         "l": 13,
+         "m": 26800,
+         "g": 8900
+      },
+      {
+         "n": "Datamatiker",
+         "l": 11,
+         "m": 27000,
+         "g": 7500
+      },
+      {
+         "n": "Designteknolog",
+         "l": 13,
+         "m": 20000,
+         "g": 9200
+      },
+      {
+         "n": "Driftsteknolog offshore",
+         "l": 2,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "E-designer",
+         "l": 12,
+         "m": 20500,
+         "g": 8900
+      },
+      {
+         "n": "Energiteknolog",
+         "l": 17,
+         "m": 29300,
+         "g": 8000
+      },
+      {
+         "n": "Financial Controller",
+         "l": 11,
+         "m": 21100,
+         "g": 6000
+      },
+      {
+         "n": "Finansøkonom",
+         "l": 8,
+         "m": 24400,
+         "g": 9400
+      },
+      {
+         "n": "Handelsøkonom",
+         "l": 8,
+         "m": 24600,
+         "g": 7900
+      },
+      {
+         "n": "Installatør",
+         "l": 3,
+         "m": 33050,
+         "g": 7650
+      },
+      {
+         "n": "IT-teknolog",
+         "l": 14,
+         "m": 26700,
+         "g": 8700
+      },
+      {
+         "n": "Jordbrugsteknolog",
+         "l": 11,
+         "m": 25800,
+         "g": 7500
+      },
+      {
+         "n": "Klinisk tandtekniker",
+         "l": 5,
+         "m": 23600,
+         "g": 8800
+      },
+      {
+         "n": "Kort- og landmålingstekniker",
+         "l": 9,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Laborant",
+         "l": 8,
+         "m": 27450,
+         "g": 5500
+      },
+      {
+         "n": "Logistikøkonom",
+         "l": 7,
+         "m": 24900,
+         "g": 9700
+      },
+      {
+         "n": "Markedsføringsøkonom",
+         "l": 8,
+         "m": 22500,
+         "g": 9800
+      },
+      {
+         "n": "Miljøteknolog",
+         "l": 22,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Multimediedesigner",
+         "l": 15,
+         "m": 20900,
+         "g": 10900
+      },
+      {
+         "n": "Procesteknolog",
+         "l": 14,
+         "m": 26950,
+         "g": 7350
+      },
+      {
+         "n": "Produktionsteknolog",
+         "l": 10,
+         "m": 29700,
+         "g": 7000
+      },
+      {
+         "n": "Serviceøkonom",
+         "l": 10,
+         "m": 21600,
+         "g": 9700
+      }
+   ],
+   "Kunstneriske uddannelser": [
+      {
+         "n": "Animationsuddannelsen",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arkitekt (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Arkitekt (kandidat)",
+         "l": 16,
+         "m": 28400,
+         "g": 6900
+      },
+      {
+         "n": "Billedkunst (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Billedkunst (kandidat)",
+         "l": 53,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Billedkunstner",
+         "l": 44,
+         "m": 11600,
+         "g": 11850
+      },
+      {
+         "n": "Craft - Glass and Ceramics (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Dans og koreografi",
+         "l": 20,
+         "m": 15650,
+         "g": 9650
+      },
+      {
+         "n": "Danseformidler",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Designer (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Designer (kandidat)",
+         "l": 31,
+         "m": 19850,
+         "g": 14100
+      },
+      {
+         "n": "Dokumentarinstruktør",
+         "l": 23,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektronisk musik og lyd (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Elektronisk musik og lydkunst (kandidat)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filmfotograf",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filminstruktør",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filmklipper",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filmproducer",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Filmtonemester",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Forfatter",
+         "l": 23,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Iscenesættelse",
+         "l": 7,
+         "m": 28800,
+         "g": 9300
+      },
+      {
+         "n": "Komposition (kandidat)",
+         "l": 21,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Konservator (kandidat)",
+         "l": 16,
+         "m": 28700,
+         "g": 7100
+      },
+      {
+         "n": "Manuskriptforfatter",
+         "l": 20,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Music Management (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Musical",
+         "l": 28,
+         "m": 25100,
+         "g": 9400
+      },
+      {
+         "n": "Musik (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Musik (kandidat)",
+         "l": 10,
+         "m": 15700,
+         "g": 14550
+      },
+      {
+         "n": "Musikproduktion (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Musikpædagogik (kandidat)",
+         "l": 6,
+         "m": 16750,
+         "g": 16450
+      },
+      {
+         "n": "Musikvidenskab (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Scenekunstnerisk produktion",
+         "l": 4,
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skuespil",
+         "l": 32,
+         "m": 25950,
+         "g": 11800
+      },
+      {
+         "n": "Tonemester (bachelor)",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Tonemester (kandidat)",
+         "l": 8,
+         "m": "-",
+         "g": "-"
+      }
+   ],
+   "Andre uddannelser": [
+      {
+         "n": "Den grundlæggende maritime uddannelse",
+         "l": 3,
+         "m": 30350,
+         "g": 18850
+      },
+      {
+         "n": "Fisker",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Fiskeskipper af 1. grad",
+         "l": 4,
+         "m": 26200,
+         "g": 17300
+      },
+      {
+         "n": "Fiskeskipper af 3. grad",
+         "l": 5,
+         "m": 29350,
+         "g": 20300
+      },
+      {
+         "n": "Fængselsbetjent",
+         "l": 0,
+         "m": 28000,
+         "g": 3000
+      },
+      {
+         "n": "Politibetjent",
+         "l": 0,
+         "m": 31100,
+         "g": 2800
+      },
+      {
+         "n": "Politikadet",
+         "l": "-",
+         "m": "-",
+         "g": "-"
+      },
+      {
+         "n": "Skibsfører (uden gymnasial uddannelse)",
+         "l": 4,
+         "m": 31000,
+         "g": 9200
+      },
+      {
+         "n": "Skibsmaskinist",
+         "l": 4,
+         "m": 28300,
+         "g": 15600
+      },
+      {
+         "n": "Styrmand",
+         "l": 3,
+         "m": "-",
+         "g": "-"
+      }
+   ]
+}
